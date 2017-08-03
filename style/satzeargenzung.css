@@ -1,0 +1,20 @@
+ #sortable { 
+ 	list-style-type: none;
+ 	margin: 40px; 
+ 	padding: 0;
+ 	min-width: 80%;
+ 	height: 60px; 
+ 	text-align: center;
+ 	border-bottom: 1px solid gray;
+ }
+
+ #sortable li { 
+ 	margin-bottom: 10px; 
+ 	padding: .4em; 
+ 	font-size: 1.4em;
+ }
+
+.li-drag {
+	margin: 10px;
+	padding: auto;
+}
